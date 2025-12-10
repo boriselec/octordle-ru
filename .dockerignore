@@ -1,0 +1,13 @@
+# Git files
+.git
+.gitignore
+
+# Documentation
+README.md
+screenshot.png
+
+# Build files
+Dockerfile
+
+# GitHub Pages config
+CNAME
