@@ -1,13 +1,10 @@
 # Git files
 .git
-.gitignore
+.github
 
 # Documentation
 README.md
-screenshot.png
 
 # Build files
 Dockerfile
-
-# GitHub Pages config
-CNAME
+.dockerignore
